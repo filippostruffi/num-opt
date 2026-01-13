@@ -3,10 +3,8 @@
 This repository benchmarks optimization algorithms across vision and NLP tasks with runnable baselines.
 
 Start here:
-- Prerequisites: [all_instructions/prerequisites.md](all_instructions/prerequisites.md)
 - How to run: [all_instructions/how_to_run.md](all_instructions/how_to_run.md)
 - Optimizers: [all_instructions/optimizers.md](all_instructions/optimizers.md)
-- Commands index (all combinations): [all_instructions/commands.md](all_instructions/commands.md)
 
 Quick start:
 ```bash
